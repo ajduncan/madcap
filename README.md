@@ -30,4 +30,3 @@ To get the latest coreos box updates with Vagrant, periodically you should:
 	$ vagrant halt
 	$ vagrant destroy
 	$ vagrant box remove coreos --provider virtualbox
-
